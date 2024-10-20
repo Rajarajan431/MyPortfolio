@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Mern Estate",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a platform for estate listings with secure JWT authentication. Built with React, TailwindCSS, Node.js, Express, and MongoDB. Integrated Redux for state management, with CRUD, search, filter, and contact features.",
+      "skills": ["React", "Redux", "Express", "Node", "MongoDB", "Tailwindcss"],
+      "demo": "https://mern-estate-t4s6.onrender.com/",
+      "source": "https://github.com/Rajarajan431/Mern-Estate"
+    },
+    {
+      "title": "Event Management App",
+      "imageSrc": "projects/project.png",
+      "description": "Built an event management app using Next.js and MongoDB with secure ticket purchases, Stripe payments, and user authentication via Clerk. Added CRUD functionality for events, styled with TailwindCSS, and used GitHub for version control.",
+      "skills": ["Next.js", "MongoDB", "Stripe", "Clerk", "TailwindCSS"],
+      "demo": "https://evently-app-sigma.vercel.app/",
+      "source": "https://github.com/Rajarajan431/evently-app"
+    },
+    {
+      "title": "Mern Admin Panel",
+      "imageSrc": "projects/project.png",
+      "description": "Allows users to register, log in, and manage employee details. Features include adding, editing, and deleting records with secure authentication. Built with React, Redux, Node.js, Express, MongoDB, and styled with TailwindCSS.",
+      "skills": ["React", "Redux", "Express", "Node", "MongoDB", "Tailwindcss"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Rajarajan431/employee-admin-panel"
+    }
+    
+  ]

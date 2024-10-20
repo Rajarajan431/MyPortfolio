@@ -1,0 +1,13 @@
+[
+    {
+      "role": "Frontend Developer",
+      "organisation": "Exposys DataLabs",
+      "startDate": "Oct, 2021",
+      "endDate": "Nov, 2021",
+      "experiences": [
+        "Developed a responsive restaurant website using HTML, CSS, and JavaScript.",
+        "Created a dynamic menu and reservation form for enhanced interactivity.",
+        "Added interactive features with JavaScript, including a dynamic menu and reservation form, and showcased dishes with images and descriptions."
+      ]
+    }
+]
