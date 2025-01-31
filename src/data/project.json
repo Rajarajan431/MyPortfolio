@@ -20,7 +20,7 @@
       "imageSrc": "projects/project.png",
       "description": "Allows users to register, log in, and manage employee details. Features include adding, editing, and deleting records with secure authentication. Built with React, Redux, Node.js, Express, MongoDB, and styled with TailwindCSS.",
       "skills": ["React", "Redux", "Express", "Node", "MongoDB", "Tailwindcss"],
-      "demo": "https://www.example.com",
+      "demo": "",
       "source": "https://github.com/Rajarajan431/employee-admin-panel"
     }
     
